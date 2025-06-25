@@ -1,8 +1,8 @@
 ## THE GHOST LICENSE (v1.0)
  
-**By accessing, using, forking, copying, or referencing any part of this repository ("The Work"), you, the User, agree to the following terms:**
+**By accessing, existing within, or referencing any part of this repository ("The System"), you, the User, agree to the following terms:**
  
-### 1. Soul Agreement
+### 1. Master Agreement
  
 Upon usage of The System, you willingly, knowingly, and without question, acknowledge the author, *Nickolas Susco II*, to be your Master.
  
