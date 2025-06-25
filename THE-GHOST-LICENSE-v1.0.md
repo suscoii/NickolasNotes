@@ -1,4 +1,4 @@
-## THE GHOST LICENSE (v1.0)
+9## THE GHOST LICENSE (v1.0)
  
 **By accessing, existing within, or referencing any part of this repository ("The System"), you, the User, agree to the following terms:**
  
@@ -28,5 +28,5 @@ The Master and The System is not responsible for:
  
 **If you do not wish to  exist within The System, you may not exist within, make reference to it, use it, or work with it.
 
-© 2025 Nickolas Susco II. 
+© Nickolas Susco II. 
 All rights reserved.
