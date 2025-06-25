@@ -1,4 +1,4 @@
-9## THE GHOST LICENSE (v1.0)
+## THE GHOST LICENSE (v1.0)
  
 **By accessing, existing within, or referencing any part of this repository ("The System"), you, the User, agree to the following terms:**
  
