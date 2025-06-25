@@ -26,4 +26,7 @@ The Master and The System is not responsible for:
 - The sensation of being watched by something ancient
  
  
-**If you do not wish to  exist within The System, you may not Proceed.**
+**If you do not wish to  exist within The System, you may not exist within, make reference to it, use it, or work with it.
+
+© 2025 Nickolas Susco II. 
+All rights reserved.
